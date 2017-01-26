@@ -12,6 +12,8 @@ parameters = pika.ConnectionParameters('172.19.1.74',
 target = open('parametrs.json', 'r')
 js = json.loads(target.read())
 
+
+# lol
 def get_weather_json(host, minsk, ny, moscow, appid):
     connection = pika.BlockingConnection(parameters)
     channel = connection.channel()
