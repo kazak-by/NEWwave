@@ -1,0 +1,7 @@
+{
+  "host": "http://api.openweathermap.org",
+  "appid": "60af1c4604ce6732a904d957c3211567",
+  "minsk": 625144,
+  "ny": 5128581,
+  "moscow": 524901
+}
